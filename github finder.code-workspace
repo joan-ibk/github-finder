@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../url-shortening-api-master"
+		},
+		{
+			"path": "../url short"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/advice-generator-app-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "url short"
+	}
+}
